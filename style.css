@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #d1ebff;
+    font-family: 'Roboto', sans-serif;
+}
+h1,h2,h3,h4,h5,h5,h6{color: #2453d7}
+.follContoner{
+    max-width: 1000px;
+    background: #c7d3f5;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+img{
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 100%;
+    float: left
+   
+    
+}
+.bio{
+    float: left;
+    padding: 30px;
+}
+.contact{
+    float: right;
+    padding: 30px;
+}
+
+.contact p a{
+    text-decoration: none;
+        color: #2453d7;
+    font-weight: bold;
+    line-height: 25px;
+}
+
+
+.contact p a:hover{    
+        color: #0b8e81;
+}
+
+.div-clear{
+    clear: both;
+    
+}
+
+hr{
+    border: 3px solid black;
+    border-bottom: none;
+    width: 100%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+
+
+
+.left-div{
+    float: left;
+    width: 30%
+}
+
+
+.right-div{
+    float: left;
+    width: 70%;
+    line-height: 23px;
+}
+
+.common-row{
+    border: 1px solid black;
+    border-bottom: none;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: 100%;
+}
+.ee{
+    color: #2453d7
+}
+
+.last{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    line-height: 25px;
+    
+}
+.last a{
+    text-decoration: none;
+    color: white;
+    margin-right: 10px
+}
+
+.last a:hover{
+    
+    color: turquoise;
+   
+}
+
+
+
+
+
